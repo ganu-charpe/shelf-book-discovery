@@ -10,7 +10,7 @@ SHELF allows users to discover books, search for books using the Google Books AP
 
 > Add your deployed application URL here.
 
-**Demo:** `https://shelf-book-discovery.vercel.app/`
+**Demo:** `https://shelf-book-discovery-o45n1fscb-ganu-charpes-projects.vercel.app/`
 
 ---
 
