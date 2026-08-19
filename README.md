@@ -372,7 +372,6 @@ AI tooling was used during the development of the application to assist with:
 * Exploring and refining responsive UI layouts.
 * Improving Tailwind CSS styling and component interactions.
 
-The final implementation, integration, and validation of the application were performed as part of the development process.
 ---
 
 ## 👨‍💻 Author
